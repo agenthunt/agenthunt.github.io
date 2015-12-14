@@ -1,0 +1,4 @@
+{
+  "title": "Waterline to GraphQL",
+  "description": "Waterline is a great ORM that abstracts different databases using an uniform API. One of the problems with waterline and in general rest services is the need to created multiple endpoints for different data requirements.Querying data often ends up being multiple round trip requests.GraphQL solves this problem by making the client specify data requirements and retrieve the exact data is single request.To learn more about graphql See here Waterline to GraphQL is an attempt to marry the best of both worlds."
+}

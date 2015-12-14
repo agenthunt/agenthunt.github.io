@@ -1,0 +1,4 @@
+{
+  "title": "XChatInsights",
+  "description": "This demo was developed as part of a contest IBM Bluemix hackathon https://www.hackerearth.com/sprints/ibm-bluemix-hackathon/. XChatInsights is an application that analyzes converstation between you and your friend using IBM Bluemix Watson Personality Insights Services. The demo shows analysis of Facebook messages. The goal of this project is provide the user with insightful data with enriched visualization that helps him/her analyze how their communications with different persons (friends, colleagues etc) progresses. They can use the inference provided as a feedback and if required take suitable actions on their relationship and improve their communication with their friends."
+}
